@@ -1,3 +1,3 @@
 kv_namespaces = [
-  { binding = "shorten_me_kv", id = ${SHORTEN_ME_KV_ID} }
+  { binding = "shorten_me_kv", id = "${SHORTEN_ME_KV_ID}" }
 ]
